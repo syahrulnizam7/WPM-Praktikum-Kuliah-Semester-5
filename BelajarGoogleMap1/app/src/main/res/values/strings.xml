@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Belajar Map</string>
+    <string name="title_activity_maps">Halaman Map</string>
+    <string name="tampilan_normal">Tampilan Normal</string>
+    <string name="tampilan_hybrid">Tampilan Hybrid</string>
+    <string name="tampilan_satelit">Tampilan Satelit</string>
+    <string name="tampilan_terrain">Tampilan Terrain</string>
+    <string name="API_KEY">AIzaSyC2iofo-svS84AMgxy7aQJN8yt-GLyjtdo</string>
+</resources>

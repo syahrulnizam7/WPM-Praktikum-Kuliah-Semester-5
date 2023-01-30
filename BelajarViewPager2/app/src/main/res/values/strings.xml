@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BelajarViewPager2</string>
+    <string name="order">Pesan</string>
+    <string name="next">Selanjutnya</string>
+    <string name="delivery">Antar</string>
+    <string name="accept">Terima</string>
+    <string name="finish">Selesai</string>
+    <string name="home">Halaman Utama</string>
+    <string name="start">Mulai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

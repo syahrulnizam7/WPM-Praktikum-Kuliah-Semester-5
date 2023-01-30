@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BelajarLayout</string>
+    <string name="hello">Halo Semua </string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="tombol">Login</string>
+    <string name="judul">Halaman Login</string>
+</resources>

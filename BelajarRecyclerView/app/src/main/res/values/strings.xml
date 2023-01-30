@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="judul">Halaman Detil Dosen</string>
+    <string name="nama">Nama Dosen</string>
+    <string name="nip">NIP</string>
+    <string name="namamk">Nama MK</string>
+    <string name="ruangan">Ruangan</string>
+    <string name="contoh_nama">Shumaya</string>
+    <string name="kompetensi">Komptensi</string>
+    <string name="judul_utama">List Dosen sistem Informasi</string>
+
+</resources>

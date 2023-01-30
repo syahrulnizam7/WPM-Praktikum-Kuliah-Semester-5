@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Belajar Service</string>
+    <string name="stop">Stop Service</string>
+    <string name="txt_service">Service</string>
+    <string name="start">START SERVICE</string>
+</resources>
